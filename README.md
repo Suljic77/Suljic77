@@ -4,8 +4,11 @@ Učenik sam trećeg razreda Elektrotehničke škole u Tuzli. Živim u Srebreniku
 # O meni
 
 🏠 Srebrenik, Bosna i Hercegovina
+
 🎓 Elektrotehnička škola Tuzla — 3. razred
+
 💻 Omiljeni predmet: Programiranje
+
 🛠️ Radim u Flowcode-u
 
 ## Projekti
