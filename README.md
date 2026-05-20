@@ -6,9 +6,13 @@ Volim tehnologiju, automobile i projekte gdje mogu spojiti elektroniku, logiku i
 ## O meni
 
 🏠 Srebrenik, Bosna i Hercegovina
+
 🎓 Elektrotehnička škola Tuzla — 3. razred
+
 🔌 Interesuju me elektronika, automatizacija i rad sa mikrokontrolerima
+
 🛠️ Pravim razne projekte koristeći Arduino, LCD displeje, senzore i keypad sisteme
+
 🚗 Zanimaju me automobili, tehnologija i moderni digitalni sadržaj
 
 ## Projekti
