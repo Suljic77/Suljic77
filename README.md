@@ -1,16 +1,15 @@
-## Hi there 👋
+# Zdravo, ja sam Suljo 👋
+Učenik sam trećeg razreda Elektrotehničke škole u Tuzli. Živim u Srebreniku i strastveno se bavim programiranjem — volim kada nešto što napišem ili sklopim zapravo proradi.
 
-<!--
-**Suljic77/Suljic77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# O meni
 
-Here are some ideas to get you started:
+🏠 Srebrenik, Bosna i Hercegovina
+🎓 Elektrotehnička škola Tuzla — 3. razred
+💻 Omiljeni predmet: Programiranje
+🛠️ Radim u Flowcode-u
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekti
+Ovdje možeš pronaći projekte koje sam radio tokom školovanja.
+
+## Kontakt
+📧 Email: suljicsuljo99@gmail.com
